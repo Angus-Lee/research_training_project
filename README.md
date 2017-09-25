@@ -1,0 +1,2 @@
+# research_training_project
+基于门户网站的新闻热点发现与舆情分析技术
